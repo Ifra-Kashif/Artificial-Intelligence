@@ -1,0 +1,101 @@
+#    WHILE LOOP
+# count = 0
+# while (count < 3):
+#    count = count+1
+#    print("Ifra Kashif")
+
+
+# count = 0
+# while (count == 0): print("hello")
+
+
+# list1 = [12, 34, 56, 87]
+# i = 0
+# while (i < 3):
+#     print(list1[i])
+#     i = i+1
+
+
+# print("List Iteration")
+# list2 = ["ifra", "kashif", "isba", "sohail"]
+# for i in list2:
+#     print(i)
+
+
+# print("example 2")
+# list3 = [12, 34, 56, 78]
+# for i in list3:
+#     print(i)
+
+
+# s = "small"
+# for i in s:
+#     print(i)
+
+
+# list3=["uni","clg","school"]
+# for index in range(len(list3)):
+#     print  (list3[index])
+
+
+# for letter in 'geeksforgeeks':
+#     if letter == 'e' or letter == 's':
+#         continue
+#     print('current letter: ', letter)
+
+
+# for letter in 'geeksforgeeks':
+#     if letter == 'e' or letter == 's':
+#         break
+#     print('current letter: ', letter)
+
+
+# def my_function():
+#     print("this is a pyhton function")
+
+
+# my_function()
+
+
+# def my_function(fname):
+#     print(fname + "Refsnes")
+
+
+# my_function("Emil")
+# my_function("Tobias")
+# my_function("Linus")
+
+
+# def my_function(country="Norway"):
+#     print("I am from " + country)
+
+
+# my_function("Sweden")
+# my_function("India")
+# my_function()
+# my_function("Brazil")
+
+
+# def my_function(food):
+#     for x in food:
+#         print(x)
+
+
+# fruit = ["apple", "strawberry", "cherry", "banana"]
+# my_function(fruit)
+
+
+# def my_function(x):
+#     return 5*x
+
+# print(my_function(3))
+# print(my_function(2))
+# print(my_function(10))
+
+
+# def my_function(child3, child2, child1):
+#     print("The youngest child is " + child3)
+
+# my_function(child1="Emil", child2="Tobias", child3="Linus")
+
+

@@ -1,0 +1,71 @@
+#     SIMPLE PRINT STATEMENT
+# print("hello")
+
+#     TAKING INPUT STRING FROM USER
+# txt=input ("type something to test this out")
+# print(txt)
+
+# print("statement 1") ; print("statement 2")
+
+#      PROPER INDENTATION
+# x=1
+# if x>0:
+#  print("This statement has proper indentation")
+
+#      TO FIND DATATYPE
+# a=1234
+# print(type(a))
+
+# b=123.98
+# print(type(b))
+
+# c="ifra kashif"
+# print(type(c))
+
+# x=complex(1,2)
+# print(type(x))
+
+# z=1+2j
+# print(type(z))
+
+# y=True
+# print(type(y))
+
+#      MORE PRINT SAMPLES
+# print("text sample 1")
+# print('text sample 2')
+# print("my day's")
+# print('my day"s')
+
+#      TO PRINT SOME SPEACIAL CHARACTERS
+# print("this is backslash \\")
+# print("this is tab \t key")
+# print("this is \n line break")
+# print("these are \'single quotes\' ")
+
+#      STRINGS
+# string1 = "PYTHON TUTORIAL"
+# print(string1[0])
+# print(string1[-15])
+# print(string1[14])
+
+#      LISTS
+# my_list1 = ['red', 'blue' , 'black' , 'white']
+# print(my_list1)
+
+# my_list2 = [15, 11 , 12 , 10]
+# print(my_list2)
+
+# my_list3 = ["red", 12, 111.234]
+# print(my_list3)
+
+# color_list = ["red", "blue", "green", "yellow"]
+# print(color_list[0])
+# print(color_list[0],color_list[3])
+# print(color_list[-1])
+
+# color_list = ["red", "blue", "green", "yellow" , "black"]
+# print(color_list[0:2])
+# print(color_list[1:3])
+# print(color_list[:3])
+# print(color_list[:])
